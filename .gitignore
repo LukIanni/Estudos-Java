@@ -1,0 +1,29 @@
+.vscode/
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Java build directories
+/bin/
+/build/
+/out/
+
+target/
+
+# IDE files
+*.iml
+.idea/
+
+# Environment files
+.env
+
+# Backup files
+*~
+*.swp
+*.bak
